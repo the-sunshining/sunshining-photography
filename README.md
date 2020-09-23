@@ -26,7 +26,7 @@ But through the years I have still enjoyed taking photos. And the desire to shar
 # How to use
 You can use these photos freely however you want.
 
-#Note
+# Note
 This being a one man project it may take me a while to actually grow this photo library.
 But I welcome contributions. 
 I want to make a photo website, extention, or app to share these photos.
