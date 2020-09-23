@@ -1,4 +1,4 @@
-# Sunshining-Photography
+# SunShining-Photography
 An Open Source Photo Library
 
 # Why?
