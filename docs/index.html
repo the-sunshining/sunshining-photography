@@ -2,7 +2,9 @@
 <html>
     <head>
         <title>SunShining Photography</title>
+        <link rel="shortcut icon" type="image/x-icon" href="img/sun_01.jpg" />
         <link rel="stylesheet" type="text/css" href="index.css">
+        <link rel="manifest" href="WebAppManifest.json">
     </head>
     <body>
 <!-- A Simple Webpage to share SunShining Photography!!! -->
@@ -142,6 +144,25 @@
 <img src="img/wheat_09.jpg"/>
 <img src="img/wheat_10.jpg"/>
 
+
+
+
+
+
+
+
+
+
+
+
+<!-- Service worker for web app -->
+<script>
+    if('serviceWorker' in navigator) {
+     navigator.serviceWorker
+              .register('sw.js', { scope: '/sunshining-photography/' })
+              .then(function() { console.log("Service Worker Registered"); });
+   }
+      </script>
 
 
     </body>
