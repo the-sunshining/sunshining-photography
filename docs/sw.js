@@ -5,8 +5,8 @@
  *
  */
 
-const version = "0.1.99";
-const cacheName = 'SunBible-${version}';
+const version = "0.1.00";
+const cacheName = 'img-${version}';
 self.addEventListener('install', e => {
   e.waitUntil(
     caches.open(cacheName).then(cache => {
