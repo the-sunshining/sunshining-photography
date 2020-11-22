@@ -7,15 +7,3 @@ width: 100px;
 height: 100px;
 margin: 10px;
 }
-img:hover {
-    width: 45%;
-    height: auto;
-    /*animation: name duration timing-function delay iteration-count direction fill-mode;*/
-animation: hover 5s;
-}
-
-/* Animation */
-@keyframes hover {
-    from {width: 100px;}
-    to {width: 45%; height: auto;}
-}
