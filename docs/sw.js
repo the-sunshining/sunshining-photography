@@ -1,6 +1,5 @@
 /*
  *
- *  SunBible
  *  Copyright 2020 The SunShining All rights reserved.
  *
  */
@@ -12,6 +11,7 @@ self.addEventListener('install', e => {
     caches.open(cacheName).then(cache => {
       return cache.addAll([
         '/sunshining-photography/',
+        '/sunshining-photography/index.html',
         '/sunshining-photography/img/sun_01.jpg',
 ])
           .then(() => self.skipWaiting());
