@@ -26,7 +26,15 @@ But through the years I have still enjoyed taking photos. And the desire to shar
 # How to use
 You can use these photos freely however you want.
 
+
+# Where to find?
+You can find these photos here online in this repository.
+Or if you clone this repository you will have access to all the photos on your device.
+[2020](docs/2020.html)
+
+<!-- 
 # Note
 This being a one man project it may take me a while to actually grow this photo library.
-But I welcome contributions. 
+But I welcome contributions.  
 I want to make a photo website, extention, or app to share these photos.
+-->
