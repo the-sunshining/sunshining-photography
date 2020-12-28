@@ -30,7 +30,9 @@ You can use these photos freely however you want.
 # Where to find?
 You can find these photos here online in this repository.
 Or if you clone this repository you will have access to all the photos on your device.
-[2020](docs/2020.html)
+
+
+[2020 Photos](docs/2020.html)
 
 <!-- 
 # Note
